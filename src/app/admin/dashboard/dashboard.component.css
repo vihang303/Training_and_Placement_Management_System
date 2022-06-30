@@ -1,0 +1,66 @@
+
+
+.navbar{
+  height: 50px;
+  border-bottom: 2px solid black;
+}
+.navbar a{
+  color: white;
+  border-radius: 5px;
+  background-color: #045537;
+  padding: 8px;
+  margin-right: 50px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.navbar h1{
+  margin-left: 20px;
+  color: white;
+}
+.size{
+    margin: 23px;
+}
+.table{
+    max-width: 1400px;
+    max-height: 650px; 
+    margin-left: 76px;
+    overflow: scroll;
+
+}
+button{
+    padding: 0.01px 3px;
+}
+/* tr:hover {background-color: coral;} */
+tr:nth-child(even) {background-color: #f7e9e9;}
+th {
+    background-color: #04AA6D;
+    color: white;
+  }
+  table, th, td {
+    border: 1px solid;
+  }
+  td {
+    text-align: center;
+  }
+th {
+    text-align: center;
+  }
+#addStudent{
+    padding: 10px;
+    margin-top: 1px;
+    margin-left: 75px;
+    background-color: blue;
+}
+
+  /* //////////////////////////////////////////////// */
+  /* sidebar */
+ #filterData{
+   display: inline;
+   margin-left: 20px;
+   margin-top: 10px;
+   margin-bottom: -15px;
+   width: 600px;
+   border-radius: 5px;
+   border: 1.5px solid black;
+ }

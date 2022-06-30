@@ -1,0 +1,135 @@
+<app-sidebar></app-sidebar>
+<div style="background-color: rgb(8, 8, 8);" class="navbar">
+  <h1>Admin Panel</h1>
+  <a href="/">LogOut</a>
+</div>
+
+<div class="main-card">
+  <div class="card-body">
+    <h1 style="font-size: 35px; font-weight: bold; color: rgb(180, 14, 14);" class="card-title">Total Placed Students : <span>{{studentData.length}}</span></h1>
+    <h3 style="font-size: 22px;" class="card-text">Average Package : <span>{{((avgextc/extc) + (avgcse/cse) + (avgit/it) + (avgelectrical/electrical) + (avgmechanical/mechanical) + (avginstru/instru) + (avgtextile/textile) + (avgproduction/production) + (avgchemical/chemical) + (avgcivil/civil))/10 | number:'1.0-2'}} LPA</span></h3>
+  </div>
+</div>
+
+<div class="department">
+    <div class="other-card">
+        <div class="cbody">
+          <h1 class="ctitle">Electronics & Telecommunication</h1>
+          <h2 class="ctitle">Total Placed  : <span>{{extc}}</span></h2>
+          <h3 class="ct">Average Package : <span>{{avgextc/extc | number:'1.0-2'}} LPA</span></h3>
+        </div>
+      </div>
+      <div class="other-card">
+        <div class="cbody">
+          <h1 class="ctitle">Computer Science</h1>
+          <h2 class="ctitle">Total Placed  : <span>{{cse}}</span></h2>
+          <h3 class="ct">Average Package : <span>{{avgcse/cse | number:'1.0-2'}} LPA</span></h3>
+        </div>
+      </div>
+      <div class="other-card">
+        <div class="cbody">
+          <h1 class="ctitle">Information Technology</h1>
+          <h2 class="ctitle">Total Placed  : <span>{{it}}</span></h2>
+          <h3 class="ct">Average Package : <span>{{avgit/it | number:'1.0-2'}} LPA</span></h3>
+        </div>
+      </div>
+      <div class="other-card">
+        <div class="cbody">
+          <h1 class="ctitle">Electrical </h1>
+          <h2 class="ctitle">Total Placed  : <span>{{electrical}}</span></h2>
+          <h3 class="ct">Average Package : <span>{{avgelectrical/electrical | number:'1.0-2'}} LPA</span></h3>
+        </div>
+      </div>
+      <div class="other-card">
+        <div class="cbody">
+          <h1 class="ctitle">Mechanical </h1>
+          <h2 class="ctitle">Total Placed  : <span>{{mechanical}}</span></h2>
+          <h3 class="ct">Average Package : <span>{{avgmechanical/mechanical | number:'1.0-2'}} LPA</span></h3>
+        </div>
+      </div>
+      <div class="other-card">
+        <div class="cbody">
+          <h1 class="ctitle">Instrumentation </h1>
+          <h2 class="ctitle">Total Placed  : <span>{{instru}}</span></h2>
+          <h3 class="ct">Average Package : <span>{{avginstru/instru | number:'1.0-2'}} LPA</span></h3>
+        </div>
+      </div>
+      <div class="other-card">
+        <div class="cbody">
+          <h1 class="ctitle">Textile Department</h1>
+          <h2 class="ctitle">Total Placed  : <span>{{textile}}</span></h2>
+          <h3 class="ct">Average Package : <span>{{avgtextile/textile | number:'1.0-2'}} LPA</span></h3>
+        </div>
+      </div>
+      <div class="other-card">
+        <div class="cbody">
+          <h1 class="ctitle">Production</h1>
+          <h2 class="ctitle">Total Placed  : <span>{{production}}</span></h2>
+          <h3 class="ct">Average Package : <span>{{avgproduction/production | number:'1.0-2'}} LPA</span></h3>
+        </div>
+      </div>
+      <div class="other-card">
+        <div class="cbody">
+          <h1 class="ctitle">Chemical </h1>
+          <h2 class="ctitle">Total Placed  : <span>{{chemical}}</span></h2>
+          <h3 class="ct">Average Package : <span>{{avgchemical/chemical | number:'1.0-2'}} LPA</span></h3>
+        </div>
+      </div>
+      <div class="other-card">
+        <div class="cbody">
+          <h1 class="ctitle">Civil Department</h1>
+          <h2 class="ctitle">Total Placed  : <span>{{civil}}</span></h2>
+          <h3 class="ct">Average Package : <span>{{avgcivil/civil | number:'1.0-2'}} LPA</span></h3>
+        </div>
+      </div>
+</div>
+
+
+<!-- -->
+<!-- <div id="container">
+    <div class="table">
+        <table class="table mt-4" >
+          <thead>
+              <tr>
+                  <th scope="col">No.</th>
+                  <th scope="col">Department Name</th>
+                  <th scope="col">Total Placed</th>
+                  <th scope="col">Average Package</th>
+              </tr>
+          </thead>
+          <tbody>
+            <tr>
+                <td>{{1}}</td> <td>Electronics & Telecommunication</td> <td>{{extc}}</td><td>{{avgextc/extc}}</td>
+            </tr>
+            <tr>
+                <td>{{2}}</td> <td>Computer Science</td> <td>{{cse}}</td><td>{{avgcse/cse}}</td>
+            </tr>
+            <tr>
+                <td>{{3}}</td> <td>Information Technology</td> <td>{{it}}</td><td>{{avgit/it}}</td>
+            </tr>
+           <tr>
+                <td>{{4}}</td> <td>Electrical</td> <td>{{electrical}}</td><td>{{avgelectrical/electrical}}</td>
+           </tr>
+          <tr>
+                <td>{{5}}</td> <td>Instrumentation</td> <td>{{instru}}</td><td>{{avginstru/instru}}</td>
+          </tr>
+    <tr>
+        <td>{{6}}</td> <td>Mechanical</td> <td>{{mechanical}}</td><td>{{avgmechanical/mechanical}}</td>
+    </tr>
+    <tr>
+        <td>{{7}}</td> <td>Textile</td> <td>{{textile}}</td><td>{{avgtextile/textile}}</td>
+    </tr>
+    <tr>
+        <td>{{8}}</td> <td>Production</td> <td>{{production}}</td><td>{{avgproduction/production}}</td>
+    </tr>
+    <tr>
+        <td>{{9}}</td> <td>Chemical</td> <td>{{chemical}}</td><td>{{avgchemical/chemical}}</td>
+    </tr>
+    <tr>
+        <td>{{10}}</td> <td>Civil</td> <td>{{civil}}</td><td>{{avgcivil/civil}}</td>
+    </tr>
+          </tbody>
+      </table>
+    </div>
+      
+</div> -->

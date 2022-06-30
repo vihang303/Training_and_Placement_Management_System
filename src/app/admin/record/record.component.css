@@ -1,0 +1,87 @@
+/* .table{
+    max-width: 600px;
+    background-color: rgb(255, 255, 255);
+}
+#container{
+    margin-left: 500px;
+}
+td {
+    text-align: center;
+  }
+th {
+    text-align: center;
+  }
+  tr:nth-child(even) {background-color: #f7e9e9;}
+  th {
+    background-color: #04AA6D;
+    color: white;
+  }
+  table, th, td {
+    border: 1px solid;
+  } */
+  .navbar{
+    height: 50px;
+    border-bottom: 2px solid black;
+  }
+  .navbar a{
+    color: white;
+    border-radius: 5px;
+    background-color: #045537;
+    padding: 8px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .navbar h1{
+    margin-left: 20px;
+    color: white;
+  }
+  body{
+    background-color:coral
+  }
+  .main-card{
+      border-radius: 20px;
+      border: 1px solid black;
+      margin: 15px auto;
+      max-width:700px;
+      text-align: center;
+      background-color: rgb(225, 225, 53);
+      transition: 1.5s;
+  }
+  .department{
+    text-align: center;
+    max-width: 100%;
+    margin: 30px 180px;
+    border: 1px solid black;
+    background-color: rgb(0, 0, 0);
+  }
+  .other-card{
+    color: white;
+    display: inline-block;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    width: 250px;
+    margin: 25px;
+    background-color:rgb(41, 41, 125);
+    box-shadow: 1px 1px 10px rgb(11, 11, 11);
+    transition: 1.5s;
+  }
+  .other-card:hover{
+    transform: scale(1.2);
+    background-color: rgb(117, 55, 161);
+    font-size: 50px;
+    /* opacity: 0.6; */
+  }
+  /* .main-card:hover{
+    transform: scale(1.2);
+    background-color: rgb(232, 124, 84);
+    /* opacity: 0.6; 
+  } */
+  h1{
+    padding-top: 12px;
+    font-size: 21px;
+  }
+  h2{
+    color: rgb(255, 20, 20);
+  }

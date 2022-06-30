@@ -1,0 +1,153 @@
+.img-fluid {
+
+    width: 100%;
+}
+
+.nameplate {
+    background-color: rgb(30, 108, 147);
+}
+
+body {
+
+    height: 100%;
+    width: 100%;
+    place-items: center;
+    background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
+}
+
+.w-100 {
+    width: 100% !important;
+    height: 70vh;
+}
+.card {
+    flex-direction: row;
+  }
+  .card img {
+    width: 40%;
+  }
+
+footer a {
+    text-decoration: none;
+}
+.wrapper a{
+    text-decoration: none;
+    color: black;
+}
+.wrapper .button {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    color: black;
+    overflow: hidden;
+    text-align: center;
+    background: #fff;
+    border-radius: 40px;
+    cursor: pointer;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-out;
+}
+
+.wrapper .button:hover {
+    width: 170px;
+}
+
+.wrapper .button .icon {
+    display: inline-block;
+    float: left;
+    height: 50px;
+    width: 50px;
+    border-radius: 40px;
+    box-sizing: border-box;
+    line-height: 50px;
+    transition: all 0.3s ease-out;
+}
+
+.wrapper .button:nth-child(1):hover .icon {
+    background: #4267B2;
+}
+
+.wrapper .button:nth-child(2):hover .icon {
+    background: #1DA1F2;
+}
+
+.wrapper .button:nth-child(3):hover .icon {
+    background: #E13062;
+}
+
+.wrapper .button:nth-child(4):hover .icon {
+    background: rgb(10,102,194);
+}
+
+.wrapper .button:nth-child(5):hover .icon {
+    background: #ff0000;
+}
+
+.wrapper .button .icon i {
+    font-size: 20px;
+    line-height: 50px;
+    transition: all 0.3s ease-out;
+}
+
+.wrapper .button:hover .icon i {
+    color: #fff;
+}
+
+.wrapper .button:nth-child(1) span {
+    color: #4267B2;
+}
+
+.wrapper .button:nth-child(2) span {
+    color: #1DA1F2;
+}
+
+.wrapper .button:nth-child(3) span {
+    color: #E13062;
+}
+
+.wrapper .button:nth-child(4) span {
+    color: rgb(10,102,194);
+}
+
+.wrapper .button:nth-child(5) span {
+    color: #ff0000;
+}
+
+.wrapper .button span {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 60px;
+    margin-left: 0;
+    transition: all 0.3s ease-out;
+}
+
+
+body {
+    background-color: #FFFFFF;
+}
+.card {
+    border-radius:0;
+    margin:10px auto;
+}
+.card-title {
+	text-transform: uppercase;
+	color: #E44424;
+}
+
+.card-text {
+	margin-top:10px;
+	margin-bottom: 10px;
+	background-color:#FFFFFF;
+	color:#000000;
+}
+a.btn, a.btn:visited {
+    color:#333333;
+}
+a{
+    text-decoration: none;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}

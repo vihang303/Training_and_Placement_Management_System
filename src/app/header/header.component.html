@@ -1,0 +1,73 @@
+
+<nav class="navbar navbar-expand-md navbar-dark bg-black">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">
+        <img src="../../assets/images/logo.png" alt="Logo">
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" (click)="toggleNavbarCollapsing()" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" [class.collapse]="navbarCollapsed" id="navbarCollapse">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="/" routerLinkActive="active">Home</a>
+          </li>
+           <li class="nav-item">
+            <a class="nav-link" href="about" routerLinkActive="active">Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" routerLink="we" routerLinkActive="active">About Us</a>
+          </li>
+         
+          <li class="nav-item">
+            <a class="nav-link" href="https://app.joinsuperset.com/#/s/feed" target="_blank">StudentLogin</a>
+          </li>
+        </ul>
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" *ngIf="admin; else notadmin" routerLink="#" routerLinkActive="active" data-bs-toggle="modal" data-bs-target="#example">AdminLogin</a>
+            <ng-template #notadmin>
+              LogOut
+            </ng-template>
+            <!-- <a class="nav-link" *ngIf="admin" routerLink="/" routerLinkActive="active"></a> -->
+          </li>
+      </ul>
+  
+      </div>
+    </div>
+  </nav>
+
+
+  <!-- Modal -->
+  <div class="modal fade" id="example" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Student Details</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <div class="card">
+            <div class="text-center">
+                <h1>Admin Login</h1>
+                <h6>Please Enter email and Password</h6>
+            </div>
+            <form>
+                <div class="mb-3">
+                  <label for="exampleInputEmail1"  class="form-label">Username</label>
+                  <input type="email" #username class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                  
+                </div>
+                <div class="mb-3">
+                  <label for="exampleInputPassword1"  class="form-label">Password</label>
+                  <input type="password" #password class="form-control" id="exampleInputPassword1">
+                </div>
+                
+                <button type="submit" (click)=login(username.value,password.value) class="btn btn-primary">Login</button>
+              </form>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+

@@ -1,0 +1,84 @@
+<app-sidebar></app-sidebar>
+
+<div style="background-color: rgb(8, 8, 8);" class="navbar">
+  <h1>Admin Panel</h1>
+  <a href="/">Log out</a>
+</div>
+<div class="table"> 
+
+<button id="addStudent" (click)="clickaddStudent()" class="btn btn-success" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">Add Student</button>&nbsp;&nbsp;
+  
+  <input type="text" class="form-control" [(ngModel)]="filteredStatus" id="filterData" placeholder="Enter text you want to Search">&nbsp;&nbsp;
+  <table class="table mt-2" >
+    <thead>
+        <tr>
+            <!-- <th scope="col">Id</th> -->
+            <th scope="col">Name</th>
+            <th scope="col">Reg. Number</th>
+            <th scope="col">Department</th>
+            <th scope="col">Company</th>
+            <th scope="col">Package(LPA)</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let row of studentData | filter:filteredStatus">
+            <!-- <td>{{row.id}}</td> -->
+            <td>{{row.name}}</td>
+            <td>{{row.regNumber}}</td>
+            <td>{{row.department | uppercase}}</td>
+            <td>{{row.company}}</td>
+            <td>{{row.package}}</td>
+            <td>
+                <button class="size" (click)="onEdit(row)" class="btn btn-info" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">Edit</button>
+                <button class="size" (click)="deleteStudent(row)" class="btn btn-danger mx-3">Delete</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Student Details</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <form [formGroup]="formValue">
+                <div class="mb-3">
+                  <label for="exampleInputEmail1" class="form-label">Name</label>
+                  <input type="text" formControlName="name" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                </div>
+                <div class="mb-3">
+                  <label for="exampleInputPassword1" class="form-label">Reg. Number</label>
+                  <input type="text" formControlName="regNumber" class="form-control" id="exampleInputPassword1">
+                </div>
+                <div class="mb-3">
+                  <label for="exampleInputPassword1" class="form-label">Department</label>
+                  <select formControlName="department" id="exampleInputPassword1" class="form-control">
+                    <option *ngFor="let d of department" class="form-control" value="{{d}}">{{d}}</option>
+                  </select>
+                  </div>
+                  <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">Company</label>
+                    <input type="text" formControlName="company" class="form-control" id="exampleInputPassword1">
+                  </div>
+                  <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">Package(LPA)</label>
+                    <input type="text" formControlName="package" class="form-control" id="exampleInputPassword1">
+                  </div>
+               
+              </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" id="cancel" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <button type="button" *ngIf = "showAdd" (click)="postStudentDetails()" class="btn btn-primary">Add</button>
+          <button type="button" *ngIf = "showUpdate" (click)="updateStudent()" class="btn btn-primary">Update</button>
+        </div>
+      </div>
+    </div>
+  </div>

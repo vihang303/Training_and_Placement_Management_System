@@ -1,0 +1,2534 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "regNumber": "2018bcs105",
+      "name": "Smita Sunil Rautmare",
+      "department": "CSE",
+      "company": "TIAA",
+      "package": 6.4
+    },
+    {
+      "id": 2,
+      "regNumber": "2018bcs057",
+      "name": "Shruti Kishor Deth",
+      "department": "CSE",
+      "company": "TIAA",
+      "package": 6.4
+    },
+    {
+      "id": 3,
+      "regNumber": "2018bcs154",
+      "name": "Govind Sharad Kulkarni",
+      "department": "CSE",
+      "company": "TIAA",
+      "package": 6.4
+    },
+    {
+      "id": 4,
+      "regNumber": "2018bcs153",
+      "name": "Divya Sambhaji Kadam",
+      "department": "CSE",
+      "company": "TIAA",
+      "package": 6.4
+    },
+    {
+      "id": 5,
+      "regNumber": "2018bit043",
+      "name": "Varad Vasantrao Tagadpallewar",
+      "department": "IT",
+      "company": "TIAA",
+      "package": 6.4
+    },
+    {
+      "id": 6,
+      "regNumber": "2018BCS072",
+      "name": "Jai Padmakar Telang",
+      "department": "CSE",
+      "company": "RS LAB",
+      "package": 6
+    },
+    {
+      "id": 7,
+      "regNumber": "2018BCS079",
+      "name": "Aseet Kishor Dhale",
+      "department": "CSE",
+      "company": "Infosys (off campus)",
+      "package": 8
+    },
+    {
+      "id": 8,
+      "regNumber": "2018BCS102",
+      "name": "Parag Ravindra Patil",
+      "department": "CSE",
+      "company": "Goldman Sachs",
+      "package": 20
+    },
+    {
+      "id": 9,
+      "regNumber": "2018BCS042",
+      "name": "Aishwarya Dinkar Dalal",
+      "department": "CSE",
+      "company": "RS LAB",
+      "package": 6
+    },
+    {
+      "id": 10,
+      "regNumber": "2018BCS049",
+      "name": "Prajakta Rajkumar Tamte",
+      "department": "CSE",
+      "company": "RS LAB",
+      "package": 6
+    },
+    {
+      "id": 11,
+      "regNumber": "2018BCS094",
+      "name": "Saurabh Dattu Vidhate",
+      "department": "CSE",
+      "company": "RS LAB",
+      "package": 6
+    },
+    {
+      "id": 12,
+      "regNumber": "2018BCS054",
+      "name": "Purva Babhulkar",
+      "department": "CSE",
+      "company": "RS LAB",
+      "package": 6
+    },
+    {
+      "id": 13,
+      "regNumber": "2018BCS601",
+      "name": "Jay Mrinal Saha",
+      "department": "CSE",
+      "company": "RS LAB",
+      "package": 6
+    },
+    {
+      "id": 14,
+      "regNumber": "2018BCS009",
+      "name": "Yash Rajendrakumar Bhale",
+      "department": "CSE",
+      "company": "RS LAB",
+      "package": 6
+    },
+    {
+      "id": 15,
+      "regNumber": "2018BCS038",
+      "name": "Pratik Nikhil Nafde",
+      "department": "CSE",
+      "company": "RS LAB",
+      "package": 6
+    },
+    {
+      "id": 16,
+      "regNumber": "2018BCS065",
+      "name": "Shubham Satish Pathak",
+      "department": "CSE",
+      "company": "RS LAB",
+      "package": 6
+    },
+    {
+      "id": 17,
+      "regNumber": "2018BCS069",
+      "name": "vishal kishor khedekar",
+      "department": "CSE",
+      "company": "RS LAB",
+      "package": 6
+    },
+    {
+      "id": 18,
+      "regNumber": "2018BCS041",
+      "name": "Snehal Udayrao Chitnis",
+      "department": "CSE",
+      "company": "RS LAB",
+      "package": 6
+    },
+    {
+      "id": 19,
+      "regNumber": "2018BCS040",
+      "name": "Vaibhav Sharad Zope",
+      "department": "CSE",
+      "company": "RS LAB",
+      "package": 6
+    },
+    {
+      "id": 20,
+      "regNumber": "2018BIT032",
+      "name": "Ram Chandrashekhar Aherkar",
+      "department": "IT",
+      "company": "RS LAB",
+      "package": 6
+    },
+    {
+      "id": 21,
+      "regNumber": "2018BIT028",
+      "name": "Swaraj Sudam Gaidhane",
+      "department": "IT",
+      "company": "RS LAB",
+      "package": 6
+    },
+    {
+      "id": 22,
+      "regNumber": "2018BCS050",
+      "name": "Pankaj Ramreddy Takle",
+      "department": "CSE",
+      "company": "Iauro",
+      "package": 4.5
+    },
+    {
+      "id": 23,
+      "regNumber": "2018BCS092",
+      "name": "Padmavati Chandrakant Basarkode",
+      "department": "CSE",
+      "company": "Iauro",
+      "package": 4.5
+    },
+    {
+      "id": 24,
+      "regNumber": "2018bit151",
+      "name": "Nandini Ashok Tuptewar",
+      "department": "IT",
+      "company": "Iauro",
+      "package": 4.5
+    },
+    {
+      "id": 25,
+      "regNumber": "2018BIT036",
+      "name": "Motiram Vikramji Shinde",
+      "department": "IT",
+      "company": "Iauro",
+      "package": 4.5
+    },
+    {
+      "id": 26,
+      "regNumber": "2018BIT057",
+      "name": "Vishwajit Prakash Bhagat",
+      "department": "IT",
+      "company": "Dassault System",
+      "package": 7.52
+    },
+    {
+      "id": 27,
+      "regNumber": "2018BIT035",
+      "name": "Rutuja Chhatrapati Thakre",
+      "department": "IT",
+      "company": "Iauro",
+      "package": 4.5
+    },
+    {
+      "id": 28,
+      "regNumber": "2018BIT033",
+      "name": "Sanket Santosh Ainchwar",
+      "department": "IT",
+      "company": "Iauro",
+      "package": 4.5
+    },
+    {
+      "id": 29,
+      "regNumber": "2019BEC511",
+      "name": "Shreyash Shailendra Chunarkar",
+      "department": "EXTC",
+      "company": "Iauro",
+      "package": 4.5
+    },
+    {
+      "id": 30,
+      "regNumber": "2018BCS051",
+      "name": "Janhavi Namdevrao Achwale",
+      "department": "CSE",
+      "company": "Iauro",
+      "package": 4.5
+    },
+    {
+      "id": 31,
+      "regNumber": "2018BCS052",
+      "name": "Kalyani Manoj Amrutkar",
+      "department": "CSE",
+      "company": "Iauro",
+      "package": 4.5
+    },
+    {
+      "id": 32,
+      "name": "Mahesh Vilas Palaskar",
+      "regNumber": "2018BCS018",
+      "department": "CSE",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4
+    },
+    {
+      "id": 33,
+      "regNumber": "2019BCS513",
+      "name": "Harsh Pankaj Chandak",
+      "department": "CSE",
+      "company": "Dassault Systems",
+      "package": 7.52
+    },
+    {
+      "id": 34,
+      "regNumber": "2018BCS117",
+      "name": "Rohit Shekhar Wagh",
+      "department": "CSE",
+      "company": "Iauro",
+      "package": 4.5
+    },
+    {
+      "id": 35,
+      "regNumber": "2018bpr043",
+      "name": "Hanumant Navnath Lad",
+      "department": "Production",
+      "company": "neml",
+      "package": 4.5
+    },
+    {
+      "id": 36,
+      "regNumber": "2018bcs026",
+      "name": "Vinayak Vitthalappa Borbale",
+      "department": "CSE",
+      "company": "neml",
+      "package": 4.5
+    },
+    {
+      "id": 37,
+      "regNumber": "2019bit506",
+      "name": "Arati Babruwan Sude",
+      "department": "IT",
+      "company": "neml",
+      "package": 4.5
+    },
+    {
+      "id": 38,
+      "regNumber": "2018bit015",
+      "name": "Mohit Manoj Chaudhari",
+      "department": "IT",
+      "company": "Cognizant GenC Next",
+      "package": 6.7
+    },
+    {
+      "id": 39,
+      "regNumber": "2018bit001",
+      "name": "Nikhil Shivaji Gardi",
+      "department": "IT",
+      "company": "neml",
+      "package": 4.5
+    },
+    {
+      "id": 40,
+      "regNumber": "2018bcs089",
+      "name": "Saurabh Vitthal Nagare",
+      "department": "CSE",
+      "company": "neml",
+      "package": 4.5
+    },
+    {
+      "id": 41,
+      "regNumber": "2018bit003",
+      "name": "Divya Shivajirao Basatwar",
+      "department": "IT",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4
+    },
+    {
+      "id": 42,
+      "regNumber": "2018bcs021",
+      "name": "Vivek Vijay Kulkarni",
+      "department": "CSE",
+      "company": "neml",
+      "package": 4.5
+    },
+    {
+      "id": 43,
+      "regNumber": "2018bit037",
+      "name": "Vijyalaxmi Anteshwar Wadle",
+      "department": "IT",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4
+    },
+    {
+      "id": 44,
+      "regNumber": "2018bcs082",
+      "name": "Ajay Madhavrao Hatte",
+      "department": "CSE",
+      "company": "neml",
+      "package": 4.5
+    },
+    {
+      "id": 45,
+      "regNumber": "2019bin503",
+      "name": "Suchita satyawan kadam",
+      "department": "Instrumentation",
+      "company": "neml",
+      "package": 4.5
+    },
+    {
+      "id": 46,
+      "regNumber": "2018BCS056",
+      "name": "Vedant Deshpande",
+      "department": "CSE",
+      "company": "Sarvaha System",
+      "package": 5
+    },
+    {
+      "id": 47,
+      "regNumber": "2018BCS015",
+      "name": "Suplesh Shrirang Ghodke",
+      "department": "CSE",
+      "company": "Sarvaha System",
+      "package": 5
+    },
+    {
+      "id": 48,
+      "regNumber": "2018BCS109",
+      "name": "Pratik Mahadev Ghodke",
+      "department": "CSE",
+      "company": "Sarvaha System",
+      "package": 5
+    },
+    {
+      "id": 49,
+      "regNumber": "2018BIT050",
+      "name": "Pranad Pravin Waghmare",
+      "department": "IT",
+      "company": "Sarvaha System",
+      "package": 5
+    },
+    {
+      "id": 50,
+      "regNumber": "2018BIT025",
+      "name": "Balaji Kshirsagar",
+      "department": "IT",
+      "company": "Dassault System",
+      "package": 7.52
+    },
+    {
+      "id": 51,
+      "regNumber": "2018BCS045",
+      "name": "Sahil Madhukar Kharwade",
+      "department": "CSE",
+      "company": "TCS Digital",
+      "package": 7.5
+    },
+    {
+      "id": 52,
+      "regNumber": "2018BCS086",
+      "name": "Krishna Madhukar Kshirsagar",
+      "department": "CSE",
+      "company": "TCS Digital",
+      "package": 7.5
+    },
+    {
+      "id": 53,
+      "regNumber": "2018BIT059",
+      "name": "Onkar Padmakar Kulkarni",
+      "department": "IT",
+      "company": "Dassault System",
+      "package": 7.52
+    },
+    {
+      "id": 54,
+      "regNumber": "2018BIT007",
+      "name": "Sudhanshu Sanjay Motewar",
+      "department": "IT",
+      "company": "Centiro",
+      "package": 3.8
+    },
+    {
+      "id": 55,
+      "regNumber": "2018BIT055",
+      "name": "Kritika Shailesh Agrawal",
+      "department": "IT",
+      "company": "Centiro",
+      "package": 3.8
+    },
+    {
+      "id": 56,
+      "regNumber": "2018bcg152",
+      "name": "Shreyas Manoj Poharkar",
+      "department": "Chemical",
+      "company": "TCS Digital",
+      "package": 7.5
+    },
+    {
+      "id": 57,
+      "regNumber": "2018bcs030",
+      "name": "Dushyant Digambar Nanote",
+      "department": "CSE",
+      "company": "TCS Digital",
+      "package": 7.5
+    },
+    {
+      "id": 58,
+      "regNumber": "2018BEC070",
+      "name": "Vijay Manohar Devane",
+      "department": "EXTC",
+      "company": "TCS Digital",
+      "package": 7.5
+    },
+    {
+      "id": 59,
+      "regNumber": "2018BIT040",
+      "name": "Rushikesh Sheshram Susar",
+      "department": "IT",
+      "company": "TCS Digital",
+      "package": 7.5
+    },
+    {
+      "id": 60,
+      "regNumber": "2018BCS022",
+      "name": "Neha Sharanbasppa Cholle",
+      "department": "CSE",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 61,
+      "regNumber": "2018BCS098",
+      "name": "Piyush Rajendra Patil",
+      "department": "CSE",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 62,
+      "regNumber": "2018BEC049",
+      "name": "Sanket Bhimrao Buktare",
+      "department": "EXTC",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 63,
+      "regNumber": "2018BIN011",
+      "name": "Somesh Kishanrao Shinde",
+      "department": "Instrumentation",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4
+    },
+    {
+      "id": 65,
+      "regNumber": "2018BME018",
+      "name": "Nikhil Sanjeevkumar Hore",
+      "department": "Mechanical",
+      "company": "Coditas Solutions LLP",
+      "package": 6
+    },
+    {
+      "id": 67,
+      "regNumber": "2018BIT153",
+      "name": "Prasaneet Rajkumar Somani",
+      "department": "IT",
+      "company": "Cognizant GenC Next",
+      "package": 6.7
+    },
+    {
+      "id": 68,
+      "regNumber": "2018BIT053",
+      "name": "Sushmit Girish Patil",
+      "department": "IT",
+      "company": "Cognizant GenC Next",
+      "package": 6.7
+    },
+    {
+      "id": 69,
+      "regNumber": "2018bit005",
+      "name": "Aanchal Sahebrao Dhawale",
+      "department": "IT",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 70,
+      "regNumber": "2018bec018",
+      "name": "Shivraj Shankar Hulwan",
+      "department": "EXTC",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 71,
+      "regNumber": "2018BEC061",
+      "name": "vivek maruti kawathalkar",
+      "department": "EXTC",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 72,
+      "regNumber": "2018bcs151",
+      "name": "Sakshi Anilrao Deshmukh",
+      "department": "CSE",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 73,
+      "regNumber": "2018BCS120",
+      "name": "Ganesh Sadanand Bandewar",
+      "department": "CSE",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 74,
+      "regNumber": "2018bec013",
+      "name": "Aarti Shripad Baradkar",
+      "department": "EXTC",
+      "company": "TCS Digital",
+      "package": 7.5
+    },
+    {
+      "id": 75,
+      "regNumber": "2018bec113",
+      "name": "Unnati Ulhas Moralwar",
+      "department": "EXTC",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 76,
+      "regNumber": "2018bec088",
+      "name": "Shivani Sanjayrao Ghumade",
+      "department": "EXTC",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 77,
+      "regNumber": "2018bec112",
+      "name": "AAKASH RAMRAO KHOND",
+      "department": "EXTC",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 78,
+      "regNumber": "2018BCS020",
+      "name": "Siddheshwar Pundalikrao Kendre",
+      "department": "CSE",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 79,
+      "regNumber": "2018bit024",
+      "name": "Pallavi Digambar Kande",
+      "department": "IT",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 80,
+      "regNumber": "2018bcs019",
+      "name": "Mayuri Nilkanth Patil",
+      "department": "CSE",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 81,
+      "regNumber": "2018bcs043",
+      "name": "Priyanka Ganeshrao Chavan",
+      "department": "CSE",
+      "company": "GenC Pro & Special skill",
+      "package": 5.3
+    },
+    {
+      "id": 82,
+      "regNumber": "2018bec602",
+      "name": "Vaibhav Vishwanath Sontakke",
+      "department": "EXTC",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 83,
+      "regNumber": "2018bcs101",
+      "name": "Shrinidhi Balaji Mane",
+      "department": "CSE",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 84,
+      "regNumber": "2018BEC076",
+      "name": "Shruti Sudhir Chintawar",
+      "department": "EXTC",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 85,
+      "regNumber": "2018BEC023",
+      "name": "Ajinkya Anantrao Kulkarni",
+      "department": "EXTC",
+      "company": "Hexaware Technologies",
+      "package": 3.5
+    },
+    {
+      "id": 86,
+      "regNumber": "2018BEC017",
+      "name": "abhilasha laxmikant pimpalgaonkar",
+      "department": "EXTC",
+      "company": "Hexaware Technologies",
+      "package": 3.5
+    },
+    {
+      "id": 87,
+      "regNumber": "2018bec12",
+      "name": "Aditi Praveen Dudhmande",
+      "department": "EXTC",
+      "company": "Neml",
+      "package": 4.5
+    },
+    {
+      "id": 88,
+      "regNumber": "2018bpr002",
+      "name": "Rushi Nitin Ghodke",
+      "department": "Production",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 90,
+      "regNumber": "2018BIT038",
+      "name": "Abhay Bhagwat Wagre",
+      "department": "IT",
+      "company": "Dassault Systems",
+      "package": 7.52
+    },
+    {
+      "id": 91,
+      "regNumber": "2018BIT013",
+      "name": "Swapnil Rajendra Adbalwar",
+      "department": "IT",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 92,
+      "regNumber": "2018BCS071",
+      "name": "Rachit Rajendra Panchariya",
+      "department": "CSE",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 93,
+      "regNumber": "2018BCS100",
+      "name": "Vishal Vitthal Shep",
+      "department": "CSE",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 94,
+      "regNumber": "2018BCS023",
+      "name": "Gaurav Prasad Patankar",
+      "department": "CSE",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 95,
+      "regNumber": "2018BCS064",
+      "name": "Sanket Mahakalkar",
+      "department": "CSE",
+      "company": "Consultadd (Off Campus)",
+      "package": 8
+    },
+    {
+      "id": 96,
+      "regNumber": "2018BCS156",
+      "name": "Satyanarayan Vishwambhar Jadhav",
+      "department": "CSE",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 97,
+      "regNumber": "2018BCS077",
+      "name": "kapil chonde",
+      "department": "CSE",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 98,
+      "regNumber": "2018bec064",
+      "name": "Mitwal Dhamne",
+      "department": "EXTC",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 99,
+      "regNumber": "2019BEC505",
+      "name": "Vinayak Choudante",
+      "department": "EXTC",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 100,
+      "regNumber": "2018BEC098",
+      "name": "Amol Dnyaneshwar Wadhekar",
+      "department": "EXTC",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 101,
+      "regNumber": "2018bit047",
+      "name": "Sohan Rajendra Patil",
+      "department": "IT",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 102,
+      "regNumber": "2018BEC065",
+      "name": "Anuja Avinash Muley",
+      "department": "EXTC",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 103,
+      "regNumber": "2018bec102",
+      "name": "Yogesh Sanjeev Gavali",
+      "department": "EXTC",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 104,
+      "regNumber": "2018bin018",
+      "name": "Ankit Kiran Yadav",
+      "department": "Instrumentation",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 105,
+      "regNumber": "2018bme045",
+      "name": "Shivam Ramdas dase",
+      "department": "Mechanical",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 106,
+      "regNumber": "2018BCS067",
+      "name": "Vipul Lobha Rathod",
+      "department": "CSE",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 107,
+      "regNumber": "2018bec038",
+      "name": "Mohan Subhash Thete",
+      "department": "EXTC",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 108,
+      "regNumber": "2018bit023",
+      "name": "Kaustubh Chandu Chillure",
+      "department": "IT",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 109,
+      "regNumber": "2018bit054",
+      "name": "Swapnita Hiralal Nerkar",
+      "department": "IT",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 110,
+      "regNumber": "2018bel152",
+      "name": "Md Abdul Zaher Md Abdul Muqsit",
+      "department": "Electrical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 111,
+      "regNumber": "2018bpr057",
+      "name": "Aniruddha Ajaykumar Waikar",
+      "department": "Production",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 112,
+      "regNumber": "2018BIT016",
+      "name": "Akshata Madhavrao Deshmukh",
+      "department": "IT",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 113,
+      "regNumber": "2018BIT042",
+      "name": "Jijau Vilas Devsarkar",
+      "department": "IT",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 114,
+      "regNumber": "2018bit152",
+      "name": "Mayuri Nitin Kothekar",
+      "department": "IT",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 115,
+      "regNumber": "2018bch017",
+      "name": "Abhinandan Rajesh Gayaki",
+      "department": "Chemical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 116,
+      "regNumber": "2018BIT027",
+      "name": "Rucha Ramchandra Atnure",
+      "department": "IT",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 117,
+      "regNumber": "2018BEC022",
+      "name": "Vaishnavi Gangadhar Jawadwar",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 118,
+      "regNumber": "2018bec019",
+      "name": "Pratiksha Pravin Bhanegaonkar",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 119,
+      "regNumber": "2018bpr056",
+      "name": "Sneha Ram Wadkar",
+      "department": "Production",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 120,
+      "regNumber": "2018bit062",
+      "name": "SANKALP Rameshwar Gaikwad",
+      "department": "IT",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 121,
+      "regNumber": "2018bcs053",
+      "name": "Aditi Gajanan Aralkar",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 122,
+      "regNumber": "2018BPR031",
+      "name": "Omkar Deepak BElectrical",
+      "department": "Production",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 123,
+      "regNumber": "2018bit014",
+      "name": "Himanshu Rajesh Bramhayya",
+      "department": "IT",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 124,
+      "regNumber": "2019bec502",
+      "name": "Shweta Dnyaneshwar Kashid",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 125,
+      "regNumber": "2018bcs013",
+      "name": "Pradnyokti Gajanan Burewar",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 126,
+      "regNumber": "2018bcs028",
+      "name": "Manish Sanjay Thakkurwar",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 127,
+      "regNumber": "2018BEL006",
+      "name": "Samiksha Sanjayrao Kulkarni",
+      "department": "Electrical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 128,
+      "regNumber": "2018BEC035",
+      "name": "SHUBHAM SANTOSH JAGTAP",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 129,
+      "regNumber": "2018bin022",
+      "name": "Aishwarya Sudhir Palimkar",
+      "department": "Instrumentation",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 130,
+      "regNumber": "2018BEC020",
+      "name": "KAUSTUBH RAJARAM DESHMUKH",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 131,
+      "regNumber": "2018bpr029",
+      "name": "MANSI BALASAHEB RUPNE",
+      "department": "Production",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 132,
+      "regNumber": "2018bcs112",
+      "name": "Vikram Sanjay Joshi",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 133,
+      "regNumber": "2018bpr025",
+      "name": "Vinit Bharat Akode",
+      "department": "Production",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 134,
+      "regNumber": "2018BME039",
+      "name": "Aparna Anil Dubey",
+      "department": "Mechanical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 135,
+      "regNumber": "2018bme048",
+      "name": "VAISHNAVI SUNIL TANDLE",
+      "department": "Mechanical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 136,
+      "regNumber": "2018BEL030",
+      "name": "Krishna Rohidasrao Kadam",
+      "department": "Electrical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 137,
+      "regNumber": "2018bec059",
+      "name": "Prasad Suresh Kulkarni",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 138,
+      "regNumber": "2018BPR053",
+      "name": "Rohit Dnyaneshwar Muskawad",
+      "department": "Production",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 139,
+      "regNumber": "2018bme025",
+      "name": "Omkar Mukund Joshi",
+      "department": "Mechanical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 140,
+      "regNumber": "2018bme056",
+      "name": "VEDANT MAHESH THORKAR",
+      "department": "Mechanical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 141,
+      "regNumber": "2018bme033",
+      "name": "Samrudhi Sidharam Mudagi",
+      "department": "Mechanical",
+      "company": "Dassault System",
+      "package": 7.52
+    },
+    {
+      "id": 142,
+      "regNumber": "2018BEC080",
+      "name": "Gauravsing Dashrathsing Hajari",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 143,
+      "regNumber": "2018BME031",
+      "name": "Piyush Rajendrakumar Gawhale",
+      "department": "Mechanical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 144,
+      "regNumber": "2018bcs602",
+      "name": "Riddhi Milind Deshmukh",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 145,
+      "regNumber": "2018bcs070",
+      "name": "SANKET GUNWANT KHOBRAGADE",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 146,
+      "regNumber": "2018bec105",
+      "name": "Shruti Jayantrao Patil",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 147,
+      "regNumber": "2018bme059",
+      "name": "Yash Gangadhar Kore",
+      "department": "Mechanical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 148,
+      "regNumber": "2019bme508",
+      "name": "Chaitanya Sandipkumar Chandak",
+      "department": "Mechanical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 149,
+      "regNumber": "2018bec008",
+      "name": "Somesh Balaji Zamkade",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 150,
+      "regNumber": "2018bec033",
+      "name": "PRADNYA GULABRAO DHABALE",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 151,
+      "regNumber": "2018bec046",
+      "name": "Niraj Shekhar Patil",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 152,
+      "regNumber": "2018BEL020",
+      "name": "Kushal Rameshrao Kamble",
+      "department": "Electrical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 153,
+      "regNumber": "2018BCS063",
+      "name": "Mayur Sunil Gawande",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 154,
+      "regNumber": "2018BME061",
+      "name": "Pranav Pramod Telang",
+      "department": "Mechanical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 155,
+      "regNumber": "2018BEL022",
+      "name": "Rutuja Ravindra Dhande",
+      "department": "Electrical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 156,
+      "regNumber": "2018bcs083",
+      "name": "Dipak Sahebrao Jadhav",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 157,
+      "regNumber": "2018bit031",
+      "name": "ANAND PRABHAKARRAO KALPE",
+      "department": "IT",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 158,
+      "regNumber": "2018BIT017",
+      "name": "Guneet Kalsi",
+      "department": "IT",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 159,
+      "regNumber": "2018bec040",
+      "name": "Shubham Chhatrakumar Bhagat",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 160,
+      "regNumber": "2018bec097",
+      "name": "Raj Prabhakar Waghade",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 161,
+      "regNumber": "2018bec026",
+      "name": "Kiran Sirsat",
+      "department": "EXTC",
+      "company": "Tietoevry First Naukri.com",
+      "package": 4
+    },
+    {
+      "id": 162,
+      "regNumber": "2018BIT052",
+      "name": "Anil Sangram Birajdar",
+      "department": "EXTC",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 163,
+      "regNumber": "2018bcs114",
+      "name": "Rahul Ashokrao Bhiwre",
+      "department": "CSE",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 164,
+      "regNumber": "2018bec601",
+      "name": "Pranit Sanjay Sontakke",
+      "department": "EXTC",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 165,
+      "regNumber": "2018bcs075",
+      "name": "Hakishkumar Shamrao Bhondekar",
+      "department": "CSE",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 166,
+      "regNumber": "2018bec005",
+      "name": "Shahu Yogesh Gunjal",
+      "department": "EXTC",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 167,
+      "regNumber": "2018bcs011",
+      "name": "Abhijeet Ganpati Jadhav",
+      "department": "CSE",
+      "company": "Cognizant GenC Electricalvate",
+      "package": 4.25
+    },
+    {
+      "id": 168,
+      "regNumber": "2018bpr040",
+      "name": "Samiran Dhananjay Joshi",
+      "department": "Production",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 169,
+      "regNumber": "2018bpr001",
+      "name": "SATISH RUKHMAJI GAVHANE",
+      "department": "Production",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 170,
+      "regNumber": "2018BIN015",
+      "name": "Amey Raghvendra Shirlekar",
+      "department": "Instrumentation",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 171,
+      "regNumber": "2018BCS002",
+      "name": "Sambhaji Sanjiv Ajane",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 172,
+      "regNumber": "2020mme011",
+      "name": "Pranali Prashant Kalse",
+      "department": "Mechanical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 173,
+      "regNumber": "2018bec108",
+      "name": "Chatrapati Baburao Lokre",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 174,
+      "regNumber": "2018BEC053",
+      "name": "Prasad Shivaji Muske",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 175,
+      "regNumber": "2018bec067",
+      "name": "Jagdish Ramdas Rathod",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 176,
+      "regNumber": "2018bec044",
+      "name": "Vyanketesh Arun Nagpure",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 177,
+      "regNumber": "2018bme003",
+      "name": "Swapnil Pravin Patil",
+      "department": "Mechanical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 178,
+      "regNumber": "2018bel010",
+      "name": "Pratiksha Anil Daware",
+      "department": "Electrical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 179,
+      "regNumber": "2019bit503",
+      "name": "Amar Govindrao Jagtap",
+      "department": "IT",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 180,
+      "regNumber": "2018BCH010",
+      "name": "Affan Khijar pasha Shaikh",
+      "department": "Chemical",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 181,
+      "regNumber": "2018bec014",
+      "name": "Abhishek Bhagwanrao Munde",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 182,
+      "regNumber": "2018bit030",
+      "name": "Nishant Ramdas Lilhare",
+      "department": "IT",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 183,
+      "regNumber": "2018bin001",
+      "name": "Ankita Raghunath Kumbharikar",
+      "department": "Instrumentation",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 184,
+      "regNumber": "2018bec060",
+      "name": "Shivam Ramrao Mane",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 185,
+      "regNumber": "2018bec071",
+      "name": "Neha Bhaurao Wadaskar",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 186,
+      "regNumber": "2019bcs506",
+      "name": "Srushti Santosh Pangal",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 187,
+      "regNumber": "2018bcs016",
+      "name": "Swapnaja Sanjay Narmitwar",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 188,
+      "regNumber": "2018bcs062",
+      "name": "Prashik Yuvraj Gaikwad",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 189,
+      "regNumber": "2018bin034",
+      "name": "Jatin Raju Katre",
+      "department": "Instrumentation",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 190,
+      "regNumber": "2019bcs508",
+      "name": "Pranjali Dipak More",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 191,
+      "regNumber": "2018BEC029",
+      "name": "Shivani Sunil Kakde",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 192,
+      "regNumber": "2019bcs512",
+      "name": "Smita Dattatraya Bidwai",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 193,
+      "regNumber": "2018BIN009",
+      "name": "Vedanti Pradip Morey",
+      "department": "Instrumentation",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 194,
+      "regNumber": "2018bec045",
+      "name": "Vaishnavi Rajkumar Padre",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 195,
+      "regNumber": "2018bcs073",
+      "name": "Aman Anil Upare",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 196,
+      "regNumber": "2018bec093",
+      "name": "Aditya Suresh Shete",
+      "department": "EXTC",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 197,
+      "regNumber": "2019BCS502",
+      "name": "Mohammed Roman Ahmed Moihuddin",
+      "department": "CSE",
+      "company": "Cognizant Genc",
+      "package": 4
+    },
+    {
+      "id": 198,
+      "regNumber": "2019BCE505",
+      "name": "Dwijendra Ashok Dhondge",
+      "department": "Civil",
+      "company": "Burn &Mcdonnell",
+      "package": 4.5
+    },
+    {
+      "id": 199,
+      "regNumber": "2018bcs099",
+      "name": "Anushka Sanjay Garode",
+      "department": "CSE",
+      "company": "Emerson",
+      "package": 5
+    },
+    {
+      "id": 200,
+      "regNumber": "2018bcs103",
+      "name": "Hanmant Datta Petekar",
+      "department": "CSE",
+      "company": "Euronet Worldwide",
+      "package": 4
+    },
+    {
+      "id": 201,
+      "regNumber": "2018BIT060",
+      "name": "Aditya Bali",
+      "department": "IT",
+      "company": "Emerson",
+      "package": 5
+    },
+    {
+      "id": 202,
+      "regNumber": "2018BCS017",
+      "name": "SAMEEKSHA Vijay SHRUNGARE",
+      "department": "CSE",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 203,
+      "regNumber": "2018BEC083",
+      "name": "VEDANT Rameshrao KUMBHALKAR",
+      "department": "EXTC",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 204,
+      "regNumber": "2018bin030",
+      "name": "AYUSHI Yuvraj SHAHARE",
+      "department": "Instrumentation",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 205,
+      "regNumber": "2018BCS027",
+      "name": "RUSHIKESH Bharatrao DEHANKAR",
+      "department": "CSE",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 206,
+      "regNumber": "2018BCS080",
+      "name": "ABHISHEK Raosaheb METKAR",
+      "department": "CSE",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 207,
+      "regNumber": "2018BEC106",
+      "name": "PRAMOD Shalikrao SHENDRE",
+      "department": "EXTC",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 208,
+      "regNumber": "2018BCE013",
+      "name": "SHUBHADA Suresh PATIL",
+      "department": "Civil",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 209,
+      "regNumber": "2018BIN017",
+      "name": "PRASHIK Raju NAVNAGE",
+      "department": "Instrumentation",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 210,
+      "regNumber": "2018bit051",
+      "name": "SUMIT Nagnath PANDE",
+      "department": "IT",
+      "company": "Dassault Systems",
+      "package": 7.52
+    },
+    {
+      "id": 211,
+      "regNumber": "2018bin019",
+      "name": "PRACHI Manoj DESHPANDE",
+      "department": "Instrumentation",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 212,
+      "regNumber": "2018BIN040",
+      "name": "RISHABH Vijaykumar PATLE",
+      "department": "Instrumentation",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 213,
+      "regNumber": "2019bcs504",
+      "name": "PRIYANKA Pradipkumar KSHIRSAGAR",
+      "department": "CSE",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 214,
+      "regNumber": "2018BEC034",
+      "name": "SHREYA Shridhar DIKSHIT",
+      "department": "EXTC",
+      "company": "Capgemini",
+      "package": 4
+    },
+    {
+      "id": 215,
+      "regNumber": "2019bcs503",
+      "name": "VAISHNAVI Vijay BHAGAT",
+      "department": "CSE",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 216,
+      "regNumber": "2019bcs509",
+      "name": "ANUSHKA Deepak PATIL",
+      "department": "CSE",
+      "company": "Euronet Worldwide",
+      "package": 4
+    },
+    {
+      "id": 217,
+      "regNumber": "2019bit501",
+      "name": "PRERNA Sopanrao GAIKWAD",
+      "department": "IT",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 218,
+      "regNumber": "2019bme506",
+      "name": "ATHARVA Chandrakant BHOSALE",
+      "department": "Mechanical",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 219,
+      "regNumber": "2018BEL002",
+      "name": "FAIZAN UMAIR",
+      "department": "Electrical",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 220,
+      "regNumber": "2018BEC066",
+      "name": "RAJKUMAR Namdev RAJHANS",
+      "department": "EXTC",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 221,
+      "regNumber": "2018BME013",
+      "name": "SALONI Milind PATIL",
+      "department": "Mechanical",
+      "company": "TCS Ninja",
+      "package": 3.36
+    },
+    {
+      "id": 222,
+      "regNumber": "2019bcs501",
+      "name": "Mayuri Rajesh Sindagikar",
+      "department": "CSE",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 223,
+      "regNumber": "2018BEC109",
+      "name": "Vihang Jayesh Badnore",
+      "department": "EXTC",
+      "company": "Capgemini",
+      "package": 7.5
+    },
+    {
+      "id": 224,
+      "regNumber": "2018BIN032",
+      "name": "Omkar Rajesh Vinchurkar",
+      "department": "Instrumentation",
+      "company": "Aker Solution",
+      "package": 4.5
+    },
+    {
+      "id": 225,
+      "regNumber": "2018bec081",
+      "name": "Vaibhav Parmeshwar Gopatwad",
+      "department": "EXTC",
+      "company": "Capgemini",
+      "package": 4
+    },
+    {
+      "id": 226,
+      "regNumber": "2018bec119",
+      "name": "Komal Ankush Kuntewad",
+      "department": "EXTC",
+      "company": "Capgemini",
+      "package": 4
+    },
+    {
+      "id": 227,
+      "regNumber": "2017bcs116",
+      "name": "Vishal Dattatray Burrewar",
+      "department": "CSE",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 228,
+      "regNumber": "2017bec037",
+      "name": "Hakimkhan Salimkhan Pathan",
+      "department": "EXTC",
+      "company": "Capgemini",
+      "package": 4
+    },
+    {
+      "id": 229,
+      "regNumber": "2018bcs061",
+      "name": "Rohit Vitthalrao Jagtap",
+      "department": "CSE",
+      "company": "Capgemini",
+      "package": 4
+    },
+    {
+      "id": 230,
+      "regNumber": "2018bel016",
+      "name": "Srushti Kishor Fating",
+      "department": "Electrical",
+      "company": "Capgemini",
+      "package": 4
+    },
+    {
+      "id": 231,
+      "regNumber": "2018bec002",
+      "name": "Sneha Balwant Biradar",
+      "department": "EXTC",
+      "company": "Capgemini",
+      "package": 4
+    },
+    {
+      "id": 232,
+      "regNumber": "2018bit022",
+      "name": "Sohan Vasant Chavhan",
+      "department": "IT",
+      "company": "Capgemini",
+      "package": 4
+    },
+    {
+      "id": 233,
+      "regNumber": "2018bec116",
+      "name": "Irtesam Virani",
+      "department": "EXTC",
+      "company": "Capgemini",
+      "package": 4
+    },
+    {
+      "id": 235,
+      "regNumber": "2018bme050",
+      "name": "Aundhkar Rushikesh Rajendra",
+      "department": "Mechanical",
+      "company": "Dassault System",
+      "package": 7.52
+    },
+    {
+      "id": 236,
+      "regNumber": "2018bme015",
+      "name": "Shital Somanath Jadhav",
+      "department": "Mechanical",
+      "company": "Dassault System",
+      "package": 7.52
+    },
+    {
+      "id": 237,
+      "regNumber": "2018bme042",
+      "name": "Vipul Virbhadra Chendke",
+      "department": "Mechanical",
+      "company": "Dassault System",
+      "package": 7.52
+    },
+    {
+      "id": 238,
+      "regNumber": "2018bcs012",
+      "name": "Prajeta Rajaram Patle",
+      "department": "CSE",
+      "company": "InTextileure (Off Campus)",
+      "package": 4.5
+    },
+    {
+      "id": 246,
+      "regNumber": "2018BIT019",
+      "name": "Navjyot Vilas BhElectrical",
+      "department": "IT",
+      "company": "Zensar Technologies",
+      "package": 4
+    },
+    {
+      "id": 247,
+      "regNumber": "2019BEC510",
+      "name": "Suraj Pradeep Ghanmule",
+      "department": "EXTC",
+      "company": "Zensar Technologies",
+      "package": 4
+    },
+    {
+      "id": 248,
+      "regNumber": "2018BEC050",
+      "name": "Ramkrushnahari Jagannath Chavan",
+      "department": "EXTC",
+      "company": "Zensar Technologies",
+      "package": 4
+    },
+    {
+      "id": 249,
+      "regNumber": "2018BEC156",
+      "name": "Vaibhav Abasaheb Pawar",
+      "department": "EXTC",
+      "company": "Zensar Technologies",
+      "package": 4
+    },
+    {
+      "id": 250,
+      "regNumber": "2018BEC058",
+      "name": "Sudhir Baliram Kadam",
+      "department": "EXTC",
+      "company": "Zensar Technologies",
+      "package": 4
+    },
+    {
+      "id": 251,
+      "regNumber": "2018BEC007",
+      "name": "Limbaji Dilip Thorat",
+      "department": "EXTC",
+      "company": "Zensar Technologies",
+      "package": 4
+    },
+    {
+      "id": 252,
+      "regNumber": "2018bcs091",
+      "name": "Poorva Nilegaonkar",
+      "department": "CSE",
+      "company": "DXT Technology",
+      "package": 4
+    },
+    {
+      "id": 254,
+      "regNumber": "2018bch013",
+      "name": "Yogesh T Krishnasai",
+      "department": "Chemical",
+      "company": "Thermax Global ",
+      "package": 5.75
+    },
+    {
+      "id": 255,
+      "regNumber": "2018bec075",
+      "name": "Shashank Sanjay Chavan",
+      "department": "EXTC",
+      "company": "Wipro (off Campus)",
+      "package": 3.5
+    },
+    {
+      "id": 256,
+      "regNumber": "2018BCS090",
+      "name": "Payal Sudhir Naik",
+      "department": "CSE",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 257,
+      "regNumber": "2019bit047",
+      "name": "Pooja Wadekar",
+      "department": "IT",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 258,
+      "regNumber": "2018BIT049",
+      "name": "Sukhada Prashant Takle",
+      "department": "IT",
+      "company": "Infosys (off campus)",
+      "package": 6.25
+    },
+    {
+      "id": 259,
+      "regNumber": "2018BCS111",
+      "name": "Ritik Vinod Nandanwar",
+      "department": "CSE",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 260,
+      "regNumber": "2018BIT029",
+      "name": "Nilesh Dipak Bhagat",
+      "department": "IT",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 261,
+      "regNumber": "2018BCS087",
+      "name": "SUPRIYA SANJAY MANGNALE",
+      "department": "CSE",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 262,
+      "regNumber": "2019BIT502",
+      "name": "Ankita Chandrakant Mahajan",
+      "department": "IT",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 263,
+      "regNumber": "2018BEC084",
+      "name": "Utkarsh Rajendra Lanjewar",
+      "department": "EXTC",
+      "company": "Persistent",
+      "package": 4.71
+    },
+    {
+      "id": 264,
+      "regNumber": "2018BCS044",
+      "name": "Rushikesh Shrimant Jagtap",
+      "department": "CSE",
+      "company": "Euronet Worldwide",
+      "package": 4
+    },
+    {
+      "id": 265,
+      "regNumber": "2019BCS514",
+      "name": "Rushikesh Pandit Suradkar",
+      "department": "CSE",
+      "company": "Euronet Worldwide",
+      "package": 4
+    },
+    {
+      "id": 266,
+      "regNumber": "2018btt020",
+      "name": "Parag Dinesh Raut",
+      "department": "Textile",
+      "company": "Welspun",
+      "package": 3
+    },
+    {
+      "id": 267,
+      "regNumber": "2018btt015",
+      "name": "Krupa Dilip Mohril",
+      "department": "Textile",
+      "company": "Faurecia",
+      "package": 4.5
+    },
+    {
+      "id": 268,
+      "regNumber": "2018bel015",
+      "name": "Mirza Amanullah Baig Asadullah Baig",
+      "department": "Electricalc",
+      "company": "Welspun",
+      "package": 3
+    },
+    {
+      "id": 269,
+      "regNumber": "2019btt505",
+      "name": "Sanyog Kishor Chandpurkar",
+      "department": "Textile",
+      "company": "Welspun",
+      "package": 3
+    },
+    {
+      "id": 270,
+      "regNumber": "2018btt003",
+      "name": "Nikita Sunil Jogi",
+      "department": "Textile",
+      "company": "Welspun",
+      "package": 3
+    },
+    {
+      "id": 271,
+      "regNumber": "2018bec042",
+      "name": "Nikhil Naresh Chintawar",
+      "department": "EXTC",
+      "company": "Cognizant Genc ",
+      "package": 4
+    },
+    {
+      "id": 272,
+      "regNumber": "2019bpr502",
+      "name": "Sakshi Milid Vazarkar",
+      "department": "Production",
+      "company": "Wipro (off Campus)",
+      "package": 3.5
+    },
+    {
+      "id": 273,
+      "regNumber": "2019bec515",
+      "name": "Pallavi Rohidas Gade",
+      "department": "Mechanical",
+      "company": "Wipro (off Campus)",
+      "package": 3.5
+    },
+    {
+      "id": 274,
+      "regNumber": "2018BIN007",
+      "name": "KIRTI SUNIL UNHALE",
+      "department": "Instrumentation",
+      "company": "Reliance Industries ",
+      "package": 7.5
+    },
+    {
+      "id": 275,
+      "regNumber": "2018BIN016",
+      "name": "Aniket Jayant Wandhare",
+      "department": "Instrumentation",
+      "company": "Reliance Industries ",
+      "package": 7.5
+    },
+    {
+      "id": 276,
+      "regNumber": "2018bch031",
+      "name": "Rashmi Rahangdale",
+      "department": "Chemicalical",
+      "company": "Wipro (off Campus)",
+      "package": 3.5
+    },
+    {
+      "id": 277,
+      "regNumber": "2018bme040",
+      "name": "Ashpreetsingh Prithipalsingh Juneja",
+      "department": "Mechanical",
+      "company": "Thermax Global ",
+      "package": 5.75
+    },
+    {
+      "id": 278,
+      "regNumber": "2018bcs093",
+      "name": "Siddhant Pathak ",
+      "department": "CSE",
+      "company": "TCS Digital",
+      "package": 7.5
+    },
+    {
+      "id": 279,
+      "regNumber": "2018bit601",
+      "name": "OMKAR PRAKASH YENKURE",
+      "department": "IT",
+      "company": "Emerson -Autosol",
+      "package": 6.5
+    },
+    {
+      "id": 280,
+      "regNumber": "2018bcs107",
+      "name": "Bapuji Madhavrao Tate",
+      "department": "CSE",
+      "company": "Emerson -Autosol",
+      "package": 6.5
+    },
+    {
+      "id": 281,
+      "regNumber": "2018bcs031",
+      "name": "Rohit Suresh Sapkal",
+      "department": "CSE",
+      "company": "Emerson -Autosol",
+      "package": 6.5
+    },
+    {
+      "id": 282,
+      "regNumber": "2018bcs024",
+      "name": "Ojeswi Subhash Ambekar",
+      "department": "CSE",
+      "company": "Emerson -Autosol",
+      "package": 6.5
+    },
+    {
+      "id": 283,
+      "regNumber": "2019BCS505",
+      "name": "Harshad Sonawane",
+      "department": "CSE",
+      "company": "n-circle",
+      "package": 4
+    },
+    {
+      "id": 284,
+      "regNumber": "2018bec085",
+      "name": "Mahesh Khandare",
+      "department": "EXTC",
+      "company": "n-circle",
+      "package": 4
+    },
+    {
+      "id": 285,
+      "regNumber": "2018BPR028",
+      "name": "Shraddha Lokhande ",
+      "department": "Production",
+      "company": "n-circle",
+      "package": 4
+    },
+    {
+      "id": 286,
+      "regNumber": "2018bec052",
+      "name": "Neha Lahane ",
+      "department": "EXTC",
+      "company": "n-circle",
+      "package": 4
+    },
+    {
+      "id": 287,
+      "regNumber": "2019BEC516 ",
+      "name": "​Priyanka Tagare",
+      "department": "EXTC",
+      "company": "Research Wire ",
+      "package": 6
+    },
+    {
+      "id": 288,
+      "regNumber": "2019BEC501 ",
+      "name": "Rangrez Mohd Arshad",
+      "department": "EXTC",
+      "company": "Research Wire ",
+      "package": 6
+    },
+    {
+      "id": 289,
+      "regNumber": "2018bcs115",
+      "name": "Supriya Shankarrao Revanwar",
+      "department": "CSE",
+      "company": "Altimetrik",
+      "package": 5.5
+    },
+    {
+      "id": 290,
+      "regNumber": "2018bec153",
+      "name": "Vaibhav Naik",
+      "department": "EXTC",
+      "company": "Altimetrik",
+      "package": 5.5
+    },
+    {
+      "id": 291,
+      "regNumber": "2018bec095",
+      "name": "Divesh Sable",
+      "department": "EXTC",
+      "company": "Research Wire",
+      "package": 6
+    },
+    {
+      "id": 292,
+      "regNumber": "2019bec506",
+      "name": "Pratiksha Devane",
+      "department": "EXTC",
+      "company": "Research Wire",
+      "package": 6
+    },
+    {
+      "id": 295,
+      "regNumber": "2018bin004",
+      "name": "Vaishnavi Walkikar ",
+      "department": "Instrumentation",
+      "company": "Wipro (off Campus)",
+      "package": 4
+    },
+    {
+      "id": 296,
+      "regNumber": "2018bch011",
+      "name": "DATTA SHEKHAR DHORE",
+      "department": "Chemical",
+      "company": "Thermax Global ",
+      "package": 5.75
+    },
+    {
+      "id": 297,
+      "regNumber": "2018bec101",
+      "name": "Vaibhavi Chaure",
+      "department": "EXTC",
+      "company": "L-Cube ",
+      "package": 3
+    },
+    {
+      "id": 298,
+      "regNumber": "2020MIT002",
+      "name": "Sariya Begam syed meraz",
+      "department": "IT",
+      "company": "L&T Technology",
+      "package": 6.16
+    },
+    {
+      "id": 299,
+      "regNumber": "2018bec028",
+      "name": "Hrishikesh Gore",
+      "department": "EXTC",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 300,
+      "regNumber": "2018btt018",
+      "name": "Abhay kailash Patil",
+      "department": "Textile",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 301,
+      "regNumber": "2018BCE004",
+      "name": "Mariam Fatema",
+      "department": "Civil",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 302,
+      "regNumber": "2018BCE002",
+      "name": "SK NOMAN SK MUSHTAQUE",
+      "department": "Civil",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 303,
+      "regNumber": "2018BEC122",
+      "name": "Priyanka Venkatrao Eklaspure",
+      "department": "EXTC",
+      "company": "Wipro (off Campus)",
+      "package": 3.5
+    },
+    {
+      "id": 305,
+      "regNumber": "2018bin038",
+      "name": "Ganesh Subhashrao Sonpawale",
+      "department": "Instrumentation",
+      "company": "Emerson -Autosol",
+      "package": 4.2
+    },
+    {
+      "id": 306,
+      "regNumber": "2018BIN023",
+      "name": "Sagar Santosh Shinde",
+      "department": "Instrumentation",
+      "company": "Emerson -Autosol",
+      "package": 4.2
+    },
+    {
+      "id": 307,
+      "regNumber": "2018BIN014",
+      "name": "Prathmesh Suresh Mitkari",
+      "department": "Instrumentation",
+      "company": "Emerson -Autosol",
+      "package": 4.2
+    },
+    {
+      "id": 308,
+      "regNumber": "2018BIN027",
+      "name": "Ankita Gopaldasji Bhutda",
+      "department": "Instrumentation",
+      "company": "Emerson -Autosol",
+      "package": 4.2
+    },
+    {
+      "id": 309,
+      "regNumber": "2018BIN033",
+      "name": "Maithili Vinodrao Deshmukh",
+      "department": "Instrumentation",
+      "company": "Emerson -Autosol",
+      "package": 4.2
+    },
+    {
+      "id": 310,
+      "regNumber": "2019BIN505",
+      "name": "Ashish Govind Solanke",
+      "department": "Instrumentation",
+      "company": "Emerson -Autosol",
+      "package": 4.2
+    },
+    {
+      "id": 311,
+      "regNumber": "2018BCH016",
+      "name": "Nivratti Madhav Waghmode",
+      "department": "Chemical",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 312,
+      "regNumber": "2018BCE059",
+      "name": "Sunil Ramdas Pawar",
+      "department": "Civil",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 313,
+      "regNumber": "2018BCE028",
+      "name": "shubham Ram Ade",
+      "department": "Civil",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 314,
+      "regNumber": "2018BCE051",
+      "name": "PAYAL SURESH PAWAR",
+      "department": "Civil",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 315,
+      "regNumber": "2018bpr062",
+      "name": "Sumit Subhash Hiras",
+      "department": "Production",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 316,
+      "regNumber": "2018BCH002",
+      "name": "Bushera Mujmil Tamboli",
+      "department": "Chemical",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 317,
+      "regNumber": "2018BPR064",
+      "name": "Rushikesh Ramchandra Nirantar",
+      "department": "Production",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 318,
+      "regNumber": "2018bce008 ",
+      "name": "Purva Dorkhande",
+      "department": "Civil",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 319,
+      "regNumber": "2018BPR007",
+      "name": "Piyush Yogesh Patil",
+      "department": "Production",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 320,
+      "regNumber": "2018BCE010",
+      "name": "Shweta Bramhanandrao Sawant",
+      "department": "Civil",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 321,
+      "regNumber": "2018BPR006",
+      "name": "Deepa Digambar Hanvate",
+      "department": "Production",
+      "company": "Square yard",
+      "package": 4.5
+    },
+    {
+      "id": 322,
+      "regNumber": "2019bec504",
+      "name": "Shivani madhav Bicchewar",
+      "department": "Extc",
+      "company": "Quest Global",
+      "package": 3.25
+    },
+    {
+      "id": 323,
+      "regNumber": "2018bin028",
+      "name": "Yash Narendra Virutkar",
+      "department": "Instrumentation",
+      "company": "TCE",
+      "package": 4.5
+    },
+    {
+      "id": 324,
+      "regNumber": "2018bin002",
+      "name": "Sachin Govindrao Pawar",
+      "department": "Instrumentation",
+      "company": "TCE",
+      "package": 4.5
+    },
+    {
+      "id": 325,
+      "regNumber": "2018bin502",
+      "name": "Vinayak Rameshwar Barde",
+      "department": "Instrumentation",
+      "company": "TCE",
+      "package": 4.5
+    },
+    {
+      "id": 326,
+      "regNumber": "2019bin501",
+      "name": "Jaydeep Jayant Joshi",
+      "department": "Instrumentation",
+      "company": "TCE",
+      "package": 4.5
+    },
+    {
+      "id": 327,
+      "regNumber": "2018btt601",
+      "name": "Priyanka Godare",
+      "department": "textile",
+      "company": "Trident Group",
+      "package": 9
+    },
+    {
+      "id": 328,
+      "regNumber": "2018BEC104",
+      "name": "Nilesh Sabne",
+      "department": "extc",
+      "company": "solutions",
+      "package": 1.8
+    },
+    {
+      "id": 329,
+      "name": "Ram",
+      "regNumber": "2018BEC082",
+      "department": "EXTC",
+      "company": "TCS",
+      "package": "4"
+    },
+    {
+      "id": 330,
+      "name": "Onkar suryawanshi",
+      "regNumber": "2018bin029",
+      "department": "INSTRUMENTATION",
+      "company": "Wimpro",
+      "package": "6.5"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
